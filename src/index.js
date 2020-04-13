@@ -56,6 +56,7 @@ class App extends React.Component {
           width="2048"
         />
         <Entity particle-system={{preset: "snow", particleCount: 2000}} />
+        <Entity particle-system={{preset: "snow", particleCount: 2000}} />
         <Entity
           text={{value: "Hello, A-Frame React!", align: "center"}}
           position={{x: 0, y: 2, z: -1}}
