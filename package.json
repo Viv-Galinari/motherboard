@@ -41,6 +41,6 @@
   },
   "homepage": "https://github.com/Viv-Galinari/motherboard#readme",
   "devDependencies": {
-    "gh-pages": "^0.12.0"
+    "gh-pages": "^4.0.0"
   }
 }
